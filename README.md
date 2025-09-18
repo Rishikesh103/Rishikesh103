@@ -34,6 +34,10 @@
 - Data Structures & Algorithms (in C++)  
 - Software Design Patterns  
 - Backend Development with Java + MySQL  
+- SpringBoot
+- System Programming 
+
+
 
 ---
 
