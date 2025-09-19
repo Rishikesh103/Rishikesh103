@@ -24,6 +24,8 @@
 -  [Logic-Building Exercises](https://github.com/Rishikesh103/logic_building_assignments) — C problems for beginners  
 -  [Study_Traker](https://github.com/Rishikesh103/Study_Traker) —  A comprehensive command-line application built with Java to help students and professionals log, track, and analyze their study sessions.
 -  [ctOS_Compressor_and_Encryptor](https://github.com/Rishikesh103/ctOS_Compressor_and_Encryptor) —  A custom-built, multi-featured desktop application developed in Java for bundling, encrypting, and compressing large files and directories, all wrapped in a unique, "hacker-themed" graphical user interface inspired by Watch Dogs 2.
+-  [Generalized_DataStructures_Toolkit.h](https://github.com/Rishikesh103/DataStructures_Toolkit) — A comprehensive, header-only, generic C++ library of fundamental data structures and algorithms. This toolkit is designed to be a reusable and easy-to-integrate solution for various programming needs.
+
 
 
 
