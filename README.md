@@ -25,6 +25,9 @@
 -  [Study_Traker](https://github.com/Rishikesh103/Study_Traker) —  A comprehensive command-line application built with Java to help students and professionals log, track, and analyze their study sessions.
 -  [ctOS_Compressor_and_Encryptor](https://github.com/Rishikesh103/ctOS_Compressor_and_Encryptor) —  A custom-built, multi-featured desktop application developed in Java for bundling, encrypting, and compressing large files and directories, all wrapped in a unique, "hacker-themed" graphical user interface inspired by Watch Dogs 2.
 -  [Generalized_DataStructures_Toolkit.h](https://github.com/Rishikesh103/DataStructures_Toolkit) — A comprehensive, header-only, generic C++ library of fundamental data structures and algorithms. This toolkit is designed to be a reusable and easy-to-integrate solution for various programming needs.
+-  [WIN32SDK-Generalized-C-Data-Structures-Toolkit-in-.dll-](https://github.com/Rishikesh103/WIN32SDK-Generalized-C-Data-Structures-Toolkit-in-.dll-) — A comprehensive, header-only C++ template library of fundamental data structures and algorithms, designed for maximum performance and reusability. The repository also includes a Visual Studio 2022 project configured to build the library as a Dynamic-Link Library (DLL).
+-  [WIN32SDK-Client-Server-](https://github.com/Rishikesh103/WIN32SDK-Client-Server-) — A fundamental demonstration of how to create and use a Dynamic-Link Library (DLL) in C++ using Visual Studio. This project follows a simple "client-server" model where a "server" DLL provides a function that a "client" executable can use. This example focuses on exporting a single function
+
 
 
 
