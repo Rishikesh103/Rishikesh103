@@ -27,6 +27,7 @@
 -  [Generalized_DataStructures_Toolkit.h](https://github.com/Rishikesh103/DataStructures_Toolkit) — A comprehensive, header-only, generic C++ library of fundamental data structures and algorithms. This toolkit is designed to be a reusable and easy-to-integrate solution for various programming needs.
 -  [WIN32SDK-Generalized-C-Data-Structures-Toolkit-in-.dll-](https://github.com/Rishikesh103/WIN32SDK-Generalized-C-Data-Structures-Toolkit-in-.dll-) — A comprehensive, header-only C++ template library of fundamental data structures and algorithms, designed for maximum performance and reusability. The repository also includes a Visual Studio 2022 project configured to build the library as a Dynamic-Link Library (DLL).
 -  [WIN32SDK-Client-Server-](https://github.com/Rishikesh103/WIN32SDK-Client-Server-) — A fundamental demonstration of how to create and use a Dynamic-Link Library (DLL) in C++ using Visual Studio. This project follows a simple "client-server" model where a "server" DLL provides a function that a "client" executable can use. This example focuses on exporting a single function
+-  [OpenCV-Realtime-Recognization](https://github.com/Rishikesh103/OpenCV-Realtime-Recognization) — This is a Python-based application that uses computer vision to perform real-time face recognition from a webcam feed. It features a graphical user interface (GUI) built with **Tkinter** for easy interaction. The system allows for the registration of new users, classifying them as either "Criminal" or "Hostage,"
 
 
 
